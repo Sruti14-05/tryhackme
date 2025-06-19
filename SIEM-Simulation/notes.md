@@ -6,5 +6,14 @@ To explore how a SIEM (Security Information and Event Management) system helps a
 - Understanding how SOC teams investigate alerts
 - Hands-on interaction with a SIEM interface
 - How to capture a flag using simulated data
----
-_(I will update this file after completing the lab with what I learned.)_
+## What I Learned:
+- SIEM systems help centralize and analyze suspicious activities.
+- Multiple failed logins followed by a successful one is a suspicious pattern.
+- External IPs like `143.110.250.149` flagged as malicious must be blocked.
+- Tools like IP scanners help confirm threat sources.
+- Analysts use logs, behavior patterns, and threat intel to take action.
+## Outcome:
+- Flag captured: `THM{THREAT-BLOCKED}` 
+- Malicious IP address `143.110.250.149` identified and blocked
+- Challenge successfully completed!
+## Screenshot:
