@@ -16,4 +16,4 @@ To explore how a SIEM (Security Information and Event Management) system helps a
 - Flag captured: `THM{THREAT-BLOCKED}` 
 - Malicious IP address `143.110.250.149` identified and blocked
 - Challenge successfully completed!
-## Screenshot:
+## Screenshot is attached in the file.
